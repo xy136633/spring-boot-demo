@@ -1,0 +1,4 @@
+dispatcherProcess: 
+  processList:
+    - processOne
+    - processTwo
